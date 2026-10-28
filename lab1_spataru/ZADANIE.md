@@ -9,7 +9,7 @@
 ## Среда
 - Среда: XAMPP (Apache + PHP)
 - Версия PHP: <!-- указать версию, которая выводится на странице -->
-- Адрес страницы: `http://localhost/DWA_FR/LL_01/index.php`
+- Адрес страницы: `http://localhost/DWA_FR/lab1_spataru/index.php`
 
 ## Структура проекта
 | Файл | Содержание |

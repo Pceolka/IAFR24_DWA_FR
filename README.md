@@ -1,2 +1,2 @@
 The assignments are already finished:
-    -LL_01
+    -lab1_spataru
