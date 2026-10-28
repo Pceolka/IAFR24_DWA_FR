@@ -55,3 +55,10 @@ $rashody = [
         "summa" => 300
     ]
 ];
+
+// тесты, раскоментить нужный
+// $byudzhet = 6850; // ровно
+// $byudzhet = 6000; // превышен
+// $uchastniki = 0; // 0 чел
+// $rashody[0]["summa"] = 400; $rashody[1]["summa"] = 400; $rashody[2]["summa"] = 400; // нет от 1000
+// $rashody = []; // пусто
